@@ -1,2 +1,2 @@
-SELECT id, product__name FROM northwind.product
+SELECT id, product__name FROM northwind.products
 ORDER BY product_name;
